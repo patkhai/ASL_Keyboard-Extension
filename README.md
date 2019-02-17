@@ -11,6 +11,10 @@ the letters because they never learned to connect letters with sounds. On the ot
 uses iPads and iPhones to watch what they want, play what they want, but imagine if parents can teach them how to recognize 
 hand gestures as a form of communications, wouldn't that be awesome way to learn something? 
 
+# Demo 
+[Imgur](https://i.imgur.com/4WnQi7Z.gif)!
+
+
 # How this works
 ASLBoard would allows user to have an easy time chatting with their peers or just have a learning experience. 
 ASLBoard follows QWERTY format to make it easier typing and whenever user tap on the asl sign icon, 
