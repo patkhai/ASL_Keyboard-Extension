@@ -12,7 +12,7 @@ uses iPads and iPhones to watch what they want, play what they want, but imagine
 hand gestures as a form of communications, wouldn't that be awesome way to learn something? 
 
 # Demo 
-[Imgur](https://i.imgur.com/4WnQi7Z.gif)!
+![Imgur](https://i.imgur.com/4WnQi7Z.gif)
 
 
 # How this works
