@@ -416,7 +416,18 @@ class KeyboardViewController: UIInputViewController {
     @objc func aTap() {
         let proxy = textDocumentProxy as UITextDocumentProxy
         proxy.insertText("a")
-        
+
+    
+    }
+    
+    
+    func categoriesString(_ categories: [String]) -> String {
+        var catString = ""
+        for category in categories{
+            catString += " \(category)"
+            
+        }
+        return catString
     }
     
     
@@ -570,8 +581,18 @@ class KeyboardViewController: UIInputViewController {
         proxy.insertText("z")
         
     }
-    
+
+
     
     
 
 }
+extension UIImage {
+    
+    /// EZSE: Returns base64 string
+    public var base64: String {
+        return self.jpegData(compressionQuality: 1.0)!.base64EncodedString()
+    }
+}
+
+

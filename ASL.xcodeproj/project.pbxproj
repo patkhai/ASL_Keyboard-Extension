@@ -19,6 +19,8 @@
 		34414C5022190922007A0B6A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34414C4F22190922007A0B6A /* Default-568h@2x.png */; };
 		34414C51221909CB007A0B6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34414C162218F53B007A0B6A /* Assets.xcassets */; };
 		34414C5422191556007A0B6A /* KeyboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34414C432218F6D1007A0B6A /* KeyboardViewController.swift */; };
+		34B89012222BFE4700E3634A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34414C112218F53B007A0B6A /* ViewController.swift */; };
+		34B89013222BFE4D00E3634A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34414C132218F53B007A0B6A /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -327,6 +329,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34414C51221909CB007A0B6A /* Assets.xcassets in Resources */,
+				34B89013222BFE4D00E3634A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -363,6 +366,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34B89012222BFE4700E3634A /* ViewController.swift in Sources */,
 				34414C442218F6D1007A0B6A /* KeyboardViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -529,13 +533,13 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = CK4V98BSP8;
+				DEVELOPMENT_TEAM = HMYUSX23U3;
 				INFOPLIST_FILE = ASL/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.patkhai.Places;
+				PRODUCT_BUNDLE_IDENTIFIER = com.patkhai.e;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -548,13 +552,13 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = CK4V98BSP8;
+				DEVELOPMENT_TEAM = HMYUSX23U3;
 				INFOPLIST_FILE = ASL/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.patkhai.Places;
+				PRODUCT_BUNDLE_IDENTIFIER = com.patkhai.e;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -647,14 +651,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = CK4V98BSP8;
+				DEVELOPMENT_TEAM = HMYUSX23U3;
 				INFOPLIST_FILE = asl/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.patkhai.Places.asl;
+				PRODUCT_BUNDLE_IDENTIFIER = com.patkhai.e.yes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.2;
@@ -666,14 +670,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = CK4V98BSP8;
+				DEVELOPMENT_TEAM = HMYUSX23U3;
 				INFOPLIST_FILE = asl/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.patkhai.Places.asl;
+				PRODUCT_BUNDLE_IDENTIFIER = com.patkhai.e.yes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.2;
